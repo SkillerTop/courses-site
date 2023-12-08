@@ -1,0 +1,6 @@
+{
+  "domain": "courses-app.eu.auth0.com",
+  "clientId": "LQ1xkqBsFt32koIKN9lxKyeRd7S2ZVe3",
+  "redirectUri": "http://localhost:3000",
+  "audience": "https://courses-app.eu.auth0.com/api/v2/"
+}
